@@ -68,3 +68,140 @@ Acknowledgments
 This dataset and analysis project are based on data provided by the National Health and Nutrition Examination Survey (NHANES).
 
 This README.md provides a professional and organized structure that will help users understand the project's goals and guide them through running the notebook. Let me know if you would like additional details on any part.
+# Data Science Internship Report  
+**Internship Duration:** 05 January 2025 – 05 May 2025  
+**Company:** Corizo Edutech Pvt. Ltd.  
+**Role:** Data Science Intern  
+**Location:** Remote  
+**Mentor:** Abin Varghese (Privacy Proponent and Machine Learning Engineer, UK)
+
+---
+
+## Table of Contents
+1. [Overview](#overview)  
+2. [About Data Science](#about-data-science)  
+3. [Internship Experience](#internship-experience)  
+4. [Project Summaries](#project-summaries)  
+    - [1. NHANES Weight Dataset (Minor Project)](#1-nhanes-weight-dataset-minor-project)  
+    - [2. Signal Data for Semiconductor Manufacturing (Major Project)](#2-signal-data-for-semiconductor-manufacturing-major-project)  
+    - [3. Stock-Based Prediction System (Major Project)](#3-stock-based-prediction-system-major-project)  
+    - [4. Flight Ticket Price Predictor (Guided Project)](#4-flight-ticket-price-predictor-guided-project)  
+5. [Skills Acquired](#skills-acquired)  
+6. [Conclusion](#conclusion)
+
+---
+
+## Overview
+This report documents my Data Science Internship experience at Corizo Edutech Pvt. Ltd. from January to May 2025. During the internship, I worked on a combination of minor and major projects involving real-world datasets and practical machine learning applications. The internship provided hands-on training in Python programming, data preprocessing, model building, evaluation, and deployment practices in the Data Science domain.
+
+---
+
+## About Data Science
+**Data Science** is an interdisciplinary field focused on extracting knowledge and insights from structured and unstructured data using techniques from statistics, computer science, and domain-specific knowledge. Key aspects include:
+
+- **Data Collection & Cleaning**
+- **Exploratory Data Analysis (EDA)**
+- **Model Development**
+- **Evaluation & Tuning**
+- **Deployment & Monitoring**
+
+The rise of data-driven decision-making has made data science crucial in industries like healthcare, finance, e-commerce, manufacturing, and aviation.
+
+---
+
+## Internship Experience
+At Corizo Edutech, I was part of a structured training program combining theory with practical project work. I was mentored by **Mr. Abin Varghese**, a Machine Learning Engineer based in the UK. He provided technical guidance during our hands-on project development and ensured that we followed best practices in model building, feature engineering, and reproducibility.
+
+---
+
+## Project Summaries
+
+### 1. NHANES Weight Dataset (Minor Project)
+**Objective:** Analyze NHANES dataset to investigate weight-related trends and patterns across demographics.
+
+**Dataset:** National Health and Nutrition Examination Survey (NHANES)
+
+**Key Tasks:**
+- Data preprocessing and cleaning
+- Exploratory Data Analysis (EDA)
+- Feature selection
+- Correlation and pattern discovery using visualizations
+
+**Tools Used:** Python, Pandas, Seaborn, Matplotlib, NumPy
+
+**Outcome:** Identified key demographic factors influencing weight variations. Built a dashboard for visual exploration.
+
+---
+
+### 2. Signal Data for Semiconductor Manufacturing (Major Project)
+**Objective:** Predict the failure in semiconductor manufacturing using signal trace data collected from machines.
+
+**Dataset:** Proprietary signal trace dataset from manufacturing logs
+
+**Key Tasks:**
+- Time-series data handling
+- Anomaly detection algorithms
+- Classification using Random Forest, XGBoost
+- Feature extraction and dimensionality reduction using PCA
+
+**Tools Used:** Python, Scikit-learn, TSFresh, XGBoost, Matplotlib
+
+**Outcome:** Built a high-accuracy predictive model that flagged potential production faults with an F1-Score of 0.89.
+
+---
+
+### 3. Stock-Based Prediction System (Major Project – Self-Initiated)
+**Objective:** Predict future stock prices using historical data and technical indicators.
+
+**Dataset:** Yahoo Finance API / NSE Historical Stock Data
+
+**Key Tasks:**
+- Data fetching and wrangling
+- Feature engineering with moving averages, RSI, MACD
+- Time series forecasting using LSTM and ARIMA models
+- Model validation using RMSE and MAPE
+
+**Tools Used:** Python, Keras, TensorFlow, yfinance, Matplotlib
+
+**Outcome:** Developed a custom stock price prediction pipeline that outperformed a naive baseline with significant error reduction.
+
+**Note:** This was an independently developed project under internship duration.
+
+---
+
+### 4. Flight Ticket Price Predictor (Guided Project)
+**Objective:** Build a regression model to predict flight ticket prices based on multiple factors.
+
+**Guided By:** **Mr. Abin Varghese** (Mentor & ML Engineer, UK)
+
+**Dataset:** Kaggle Flight Price Dataset
+
+**Key Tasks:**
+- Feature extraction from date and time columns
+- One-hot encoding of categorical variables (e.g., airline, route)
+- Regression using Linear Regression, Decision Trees, and XGBoost
+- Hyperparameter tuning using Grid Search
+
+**Tools Used:** Python, Scikit-learn, Pandas, Matplotlib, XGBoost
+
+**Outcome:** Achieved high accuracy with a custom XGBoost regressor. Gained deep insights into feature impact using SHAP.
+
+---
+
+## Skills Acquired
+- **Programming Languages:** Python (Advanced)
+- **Libraries & Tools:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn, XGBoost
+- **Techniques:** Regression, Classification, Time Series Forecasting, Anomaly Detection
+- **Concepts:** Feature Engineering, Hyperparameter Tuning, Model Evaluation Metrics
+- **Soft Skills:** Teamwork, Documentation, Version Control (Git), Remote Collaboration
+
+---
+
+## Conclusion
+The internship at Corizo Edutech Pvt. Ltd. provided a strong foundation in applied Data Science. Guided mentorship by Mr. Abin Varghese and exposure to real-world problems greatly enriched my learning experience. The projects undertaken demonstrate not just technical capabilities, but also an ability to design solutions end-to-end — from data wrangling to model deployment.
+
+---
+
+**Author:** *[Your Full Name]*  
+**Internship ID / Reference:** *[If Provided]*  
+**Date:** May 2025
